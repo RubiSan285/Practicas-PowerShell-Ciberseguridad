@@ -1,2 +1,4 @@
 # Practicas-PowerShell-Ciberseguridad
-Colección de scripts desarrollados en prácticas de programación para ciberseguridad
+Este repositorio contiene scripts básicos desarrollados en PowerShell orientados a prácticas iniciales de ciberseguridad y automatización. Incluye herramientas sencillas para validar direcciones IP, verificar puertos y analizar conectividad entre equipos dentro de una red.
+Los scripts permiten realizar tareas como la comprobación de puertos abiertos o cerrados en múltiples direcciones IP, facilitando la identificación de servicios activos y posibles puntos de acceso en un sistema o red.
+A través de su desarrollo y uso, se pueden aprender conceptos fundamentales de ciberseguridad y scripting, como validación de entradas, automatización de tareas, uso de comandos de red, análisis básico de conectividad y buenas prácticas para la creación de scripts orientados a seguridad.
