@@ -1,3 +1,4 @@
+#Editado por Rubí Santiesteban el 12/03/2026
 $Puertos = @()
 $IPs = @()
 $Continuar = "S"
